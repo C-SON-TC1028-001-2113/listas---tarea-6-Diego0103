@@ -23,7 +23,5 @@ def main():
     columnas=int(input())
     print (datos(renglones,columnas))   
 
-
-
 if __name__=='__main__':
     main()
